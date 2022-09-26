@@ -1,0 +1,8 @@
+[package]
+name = "number-game"
+version = "0.1.0"
+authors = ["ants"]
+edition = "2021"
+
+[dependencies]
+rand = "0.3"
